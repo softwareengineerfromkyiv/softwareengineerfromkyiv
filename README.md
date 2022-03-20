@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @softwareengineerfromkyiv
-- 👀 I’m Front-end developer from Ukraine, Kyiv 🇺🇦
+- 👋 Hi, I’m @softwareengineerfromkyiv.
+- 👀 I’m Front-end developer from Ukraine, Kyiv at least 2 years 🇺🇦
 - 🍦 Currently I working on Ukraine product company and we are developing biggest CRM
 - 📫 How to reach me – Telegram: @despablos
